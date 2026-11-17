@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repository": "KJaebye/domino",
+  "version": "1.2.3",
+  "source_sha": "9d3ed31e0c055fe5d1d90ae21035482c77c8895a",
+  "signing_fingerprint": "8704BE99B201383E16246ED9099855D35D066EE8",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "README.md": "249f8d4879a6ca1071ebf11d16f058bad485e95fb26b28ee2fd6bd8e88aebfdd",
+    "dists/stable/InRelease": "7680711ebbe88f7367c970783acfc7451217ca794cb2c0b66e81355ea44649ef",
+    "dists/stable/Release": "b2869b2dbfbd015e2eae047e9bdaaffc021e68e0f98bf7b5463f3ea569806fcc",
+    "dists/stable/Release.gpg": "221badad563f1078e404dda67e52df076de7d71e90f053af51d3617d96025b9a",
+    "dists/stable/main/binary-amd64/Packages": "254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6",
+    "dists/stable/main/binary-amd64/Packages.gz": "4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98",
+    "dists/stable/main/binary-amd64/by-hash/SHA256/254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6": "254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6",
+    "dists/stable/main/binary-amd64/by-hash/SHA256/4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98": "4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98",
+    "dists/stable/main/binary-amd64/by-hash/SHA512/a764c1094803c048762cc0f5976c9f7ee440f791d40bd2a5e079af6158343f368f93704844ac0ef6faae3cfd1e68204825ae651fd8f30c88d3023134e0048dd9": "4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98",
+    "dists/stable/main/binary-amd64/by-hash/SHA512/db3671a19e4aedd25d9a884976f4226a6732a7092596c96d42d27761f7ad4b0fd8ff493a61fe637f97b8a09f5ebacabbb886719afa7e12e12d0a4f60b320e276": "254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6",
+    "dists/stable/main/binary-arm64/Packages": "254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6",
+    "dists/stable/main/binary-arm64/Packages.gz": "4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98",
+    "dists/stable/main/binary-arm64/by-hash/SHA256/254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6": "254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6",
+    "dists/stable/main/binary-arm64/by-hash/SHA256/4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98": "4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98",
+    "dists/stable/main/binary-arm64/by-hash/SHA512/a764c1094803c048762cc0f5976c9f7ee440f791d40bd2a5e079af6158343f368f93704844ac0ef6faae3cfd1e68204825ae651fd8f30c88d3023134e0048dd9": "4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98",
+    "dists/stable/main/binary-arm64/by-hash/SHA512/db3671a19e4aedd25d9a884976f4226a6732a7092596c96d42d27761f7ad4b0fd8ff493a61fe637f97b8a09f5ebacabbb886719afa7e12e12d0a4f60b320e276": "254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6",
+    "domino-archive-keyring.gpg": "1520f9ef49debf85b2b239a43d2f0fee7be1131eb6f247dd35efd1ab89d82dce",
+    "domino.sources": "b1331370b7d6cec26e0c6c826c58545fbbfeafd4ba7682bb556ff0b8d763bc3f",
+    "pool/main/d/domino-proxy/domino-proxy_1.2.3-1_all.deb": "f2bab7cc406fd89dd491cebc542035a847f5be543df8fb8cf31f847b76b6ebbe"
+  }
+}

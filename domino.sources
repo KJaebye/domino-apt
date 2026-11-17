@@ -1,0 +1,17 @@
+Types: deb
+URIs: https://raw.githubusercontent.com/KJaebye/domino-apt/main/
+Suites: stable
+Components: main
+Architectures: amd64 arm64
+Signed-By:
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+ .
+ mDMEavwG0RYJKwYBBAHaRw8BAQdARb6km0GOiHfKR8bRc7Rxv+FRMew1LHbATvOE
+ r5JCMVO0NURvbWlubyBBUFQgQXJjaGl2ZSA8S0phZWJ5ZUB1c2Vycy5ub3JlcGx5
+ LmdpdGh1Yi5jb20+iLUEExYKAF0WIQSHBL6ZsgE4PhYkbtkJmFXTXQZu6AUCavwG
+ 0RsUgAAAAAAEAA5tYW51MiwyLjUrMS4xMiwwLDMCGwMFCQPCZwAFCwkIBwICIgIG
+ FQoJCAsCBBYCAwECHgcCF4AACgkQCZhV010Gbuj5ygEAi9L2G26ByqbTkjXCee/u
+ a/0JI8l5yLPDPjGSEV4ZLIwBAPky73adPcluRg+QSAcxZz3gsuufCu8+9XDmV9RG
+ yjgG
+ =qEls
+ -----END PGP PUBLIC KEY BLOCK-----

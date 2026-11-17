@@ -1,0 +1,17 @@
+Package: domino-proxy
+Version: 1.2.3-1
+Section: net
+Priority: optional
+Architecture: all
+Maintainer: KJaebye <KJaebye@users.noreply.github.com>
+Installed-Size: 4308
+Depends: python3 (>= 3.9), curl, openssh-client
+Recommends: sudo, systemd
+Homepage: https://github.com/KJaebye/domino
+Description: Proxy configuration management and independent SSH deployment
+ Installs the Domino CLI with bundled Python dependencies.
+ Local proxy initialization is explicit: run domino-install as a normal user.
+Filename: pool/main/d/domino-proxy/domino-proxy_1.2.3-1_all.deb
+Size: 1144534
+SHA256: f2bab7cc406fd89dd491cebc542035a847f5be543df8fb8cf31f847b76b6ebbe
+

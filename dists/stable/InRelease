@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Domino
+Label: Domino
+Suite: stable
+Codename: stable
+Date: Mon, 16 Nov 2026 16:40:05 GMT
+Architectures: amd64 arm64
+Components: main
+Acquire-By-Hash: yes
+Description: Domino CLI packages
+SHA256:
+ 254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6              647 main/binary-amd64/Packages
+ 4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98              444 main/binary-amd64/Packages.gz
+ 254810415ba3cbf03ffb594abc2d7a8916ef6fb7d3b40c4d5916a153b34bedd6              647 main/binary-arm64/Packages
+ 4b3a6e332f66d5f1b009ff8d5eedac901d2fdf9df6d2b8ab7d1ce148fe63cb98              444 main/binary-arm64/Packages.gz
+SHA512:
+ db3671a19e4aedd25d9a884976f4226a6732a7092596c96d42d27761f7ad4b0fd8ff493a61fe637f97b8a09f5ebacabbb886719afa7e12e12d0a4f60b320e276              647 main/binary-amd64/Packages
+ a764c1094803c048762cc0f5976c9f7ee440f791d40bd2a5e079af6158343f368f93704844ac0ef6faae3cfd1e68204825ae651fd8f30c88d3023134e0048dd9              444 main/binary-amd64/Packages.gz
+ db3671a19e4aedd25d9a884976f4226a6732a7092596c96d42d27761f7ad4b0fd8ff493a61fe637f97b8a09f5ebacabbb886719afa7e12e12d0a4f60b320e276              647 main/binary-arm64/Packages
+ a764c1094803c048762cc0f5976c9f7ee440f791d40bd2a5e079af6158343f368f93704844ac0ef6faae3cfd1e68204825ae651fd8f30c88d3023134e0048dd9              444 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQSHBL6ZsgE4PhYkbtkJmFXTXQZu6AUCavwNthsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQCZhV010Gbug35wEAsZ7430LSkqrv3CF/2nkK
+kBiuuC7XUIYIBEny3XBMRiUA/2z3GeqiQumjfxdlBHp6nwufp7CnVaEVOgqjNbyt
+TukL
+=u+hq
+-----END PGP SIGNATURE-----
